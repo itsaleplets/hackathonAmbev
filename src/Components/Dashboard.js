@@ -8,7 +8,6 @@ import SplashScreen from './Splashscreen';
 
 function Dashboard() {
    const { splashScreen, showSplashScreen } = useContext(beerContext);
-
    setTimeout(() => {
     showSplashScreen();
   }, 4000);

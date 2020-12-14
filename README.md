@@ -1,70 +1,31 @@
-# Getting Started with Create React App
+<h1 align="center">
+    <img alt="DevRadar" title="#delicinha" src="https://raw.githubusercontent.com/itsaleplets/hackathonAmbev/master/src/images/BeerCheckLogo.svg?sanitize=true" width="200px" />
+</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+🍻 🍺 A Beer Check é uma inovação tecnológica que utiliza sensoriamento em cascata a fibra óptica para criar a cerveja na medida certa.  Nossos sensores dispõem de características específicas que nenhuma outra tecnologia pode oferecer, como: análise simultânea do teor alcoólico, CO² e O² dissolvido no líquido em altas temperatura acima de 90º, além disso, nossa solução é de baixo custo e monitoramento remoto.
 
-## Available Scripts
+### `Ferramentas`
 
-In the project directory, you can run:
+A parte front-end do projeto foi construída em React com ContextAPI para genrenciamento de estado, e componentes funcionais com HOOKs para também controlar estados, assim como ciclos de vida do componente.
+No projeto também foram usadas bibliotecas como:
+<li>Chart.js</li>
+<li>Bootstrap</li>
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### `Instalação do Projeto:`
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+```
+npm install
+```
+### `Iniciar o Servidor:`
 
-### `npm test`
+```
+npm start
+```
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### `P.S.:`
+Esse projeto foi desenvolvido para tablet. Para uma melhor visualização, rode com telas de 768 x 1024.
 
-### `npm run build`
+### `HACKATHON AMBEV - HACKEANDO A CERVEJA DO FUTURO`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)

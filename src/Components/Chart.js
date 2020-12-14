@@ -3,9 +3,10 @@ import { Line } from 'react-chartjs-2';
 import beerContext from '../Context/beerContext';
 
 function Chart(props) {
-  const { data, getData } = useContext(beerContext);
+  const { data, getData, fetch } = useContext(beerContext);
   useEffect(() => {
     getData();
+    fetch();
   }, []);
   
   return (
