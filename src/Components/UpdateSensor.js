@@ -18,7 +18,7 @@ function UpdateSensor() {
   return (
     <div className="sensor">
         <div className="div-id">
-          <h1 className="h1-title">#ID Sensor</h1>
+          <h1>#1 Sensor</h1>
           <span>Última atualização: {date}</span>
         </div>
         <div className="div-btn">
