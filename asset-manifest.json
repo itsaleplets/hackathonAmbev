@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/hackathonAmbev/static/css/main.a0e5d253.chunk.css",
-    "main.js": "/hackathonAmbev/static/js/main.0683038c.chunk.js",
-    "main.js.map": "/hackathonAmbev/static/js/main.0683038c.chunk.js.map",
+    "main.css": "/hackathonAmbev/static/css/main.229dc126.chunk.css",
+    "main.js": "/hackathonAmbev/static/js/main.f5f2a083.chunk.js",
+    "main.js.map": "/hackathonAmbev/static/js/main.f5f2a083.chunk.js.map",
     "runtime-main.js": "/hackathonAmbev/static/js/runtime-main.5afe1094.js",
     "runtime-main.js.map": "/hackathonAmbev/static/js/runtime-main.5afe1094.js.map",
     "static/css/2.20aa2d7b.chunk.css": "/hackathonAmbev/static/css/2.20aa2d7b.chunk.css",
-    "static/js/2.a9a2ada2.chunk.js": "/hackathonAmbev/static/js/2.a9a2ada2.chunk.js",
-    "static/js/2.a9a2ada2.chunk.js.map": "/hackathonAmbev/static/js/2.a9a2ada2.chunk.js.map",
+    "static/js/2.6941b0fb.chunk.js": "/hackathonAmbev/static/js/2.6941b0fb.chunk.js",
+    "static/js/2.6941b0fb.chunk.js.map": "/hackathonAmbev/static/js/2.6941b0fb.chunk.js.map",
     "static/js/3.da2e850e.chunk.js": "/hackathonAmbev/static/js/3.da2e850e.chunk.js",
     "static/js/3.da2e850e.chunk.js.map": "/hackathonAmbev/static/js/3.da2e850e.chunk.js.map",
     "index.html": "/hackathonAmbev/index.html",
     "static/css/2.20aa2d7b.chunk.css.map": "/hackathonAmbev/static/css/2.20aa2d7b.chunk.css.map",
-    "static/css/main.a0e5d253.chunk.css.map": "/hackathonAmbev/static/css/main.a0e5d253.chunk.css.map",
-    "static/js/2.a9a2ada2.chunk.js.LICENSE.txt": "/hackathonAmbev/static/js/2.a9a2ada2.chunk.js.LICENSE.txt",
+    "static/css/main.229dc126.chunk.css.map": "/hackathonAmbev/static/css/main.229dc126.chunk.css.map",
+    "static/js/2.6941b0fb.chunk.js.LICENSE.txt": "/hackathonAmbev/static/js/2.6941b0fb.chunk.js.LICENSE.txt",
+    "static/media/Alcool.30aa7f9f.svg": "/hackathonAmbev/static/media/Alcool.30aa7f9f.svg",
     "static/media/BeerCheckLogo.fdb18e5d.svg": "/hackathonAmbev/static/media/BeerCheckLogo.fdb18e5d.svg",
     "static/media/BeerCheckLogoNegativa.fd91eb5a.svg": "/hackathonAmbev/static/media/BeerCheckLogoNegativa.fd91eb5a.svg",
     "static/media/wave.fd7f2889.svg": "/hackathonAmbev/static/media/wave.fd7f2889.svg",
@@ -22,8 +23,8 @@
   "entrypoints": [
     "static/js/runtime-main.5afe1094.js",
     "static/css/2.20aa2d7b.chunk.css",
-    "static/js/2.a9a2ada2.chunk.js",
-    "static/css/main.a0e5d253.chunk.css",
-    "static/js/main.0683038c.chunk.js"
+    "static/js/2.6941b0fb.chunk.js",
+    "static/css/main.229dc126.chunk.css",
+    "static/js/main.f5f2a083.chunk.js"
   ]
 }
