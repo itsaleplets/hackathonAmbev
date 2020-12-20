@@ -6,7 +6,6 @@ function Chart(props) {
   const { data, getData, fetch } = useContext(beerContext);
   useEffect(() => {
     getData();
-    fetch();
   }, []);
   
   return (

@@ -12,3 +12,9 @@ export const dataMock = [
     title: 'Amargor',
   },
 ];
+
+export const values = () => {
+  let min = 0;
+  let max = 5.5;
+  return parseFloat(Math.random() * (max - min)).toFixed(1); 
+}

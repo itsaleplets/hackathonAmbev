@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import propTypes from 'prop-types';
 import beerContext from './beerContext';
-import getAPI from '../Services/API';
+import { values } from '../Services/Helper';
 
 function BeerProvider({ children }) {
   const [data, setData] = useState([]);
@@ -11,8 +11,8 @@ function BeerProvider({ children }) {
   const yAxisData = [1, 2, 1, 2.5, 1, 2]
   
   const fetch = async () => {
-    const getFetch = await getAPI();
-    setApiResult(getFetch);
+    // const getFetch = await getAPI();
+    setApiResult(values);
   };
 
   const showSplashScreen = () => {
