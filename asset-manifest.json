@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/hackathonAmbev/static/css/main.229dc126.chunk.css",
-    "main.js": "/hackathonAmbev/static/js/main.f5f2a083.chunk.js",
-    "main.js.map": "/hackathonAmbev/static/js/main.f5f2a083.chunk.js.map",
+    "main.css": "/hackathonAmbev/static/css/main.fe35c215.chunk.css",
+    "main.js": "/hackathonAmbev/static/js/main.b857f8aa.chunk.js",
+    "main.js.map": "/hackathonAmbev/static/js/main.b857f8aa.chunk.js.map",
     "runtime-main.js": "/hackathonAmbev/static/js/runtime-main.5afe1094.js",
     "runtime-main.js.map": "/hackathonAmbev/static/js/runtime-main.5afe1094.js.map",
     "static/css/2.20aa2d7b.chunk.css": "/hackathonAmbev/static/css/2.20aa2d7b.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.da2e850e.chunk.js.map": "/hackathonAmbev/static/js/3.da2e850e.chunk.js.map",
     "index.html": "/hackathonAmbev/index.html",
     "static/css/2.20aa2d7b.chunk.css.map": "/hackathonAmbev/static/css/2.20aa2d7b.chunk.css.map",
-    "static/css/main.229dc126.chunk.css.map": "/hackathonAmbev/static/css/main.229dc126.chunk.css.map",
+    "static/css/main.fe35c215.chunk.css.map": "/hackathonAmbev/static/css/main.fe35c215.chunk.css.map",
     "static/js/2.6941b0fb.chunk.js.LICENSE.txt": "/hackathonAmbev/static/js/2.6941b0fb.chunk.js.LICENSE.txt",
     "static/media/Alcool.30aa7f9f.svg": "/hackathonAmbev/static/media/Alcool.30aa7f9f.svg",
     "static/media/BeerCheckLogo.fdb18e5d.svg": "/hackathonAmbev/static/media/BeerCheckLogo.fdb18e5d.svg",
@@ -24,7 +24,7 @@
     "static/js/runtime-main.5afe1094.js",
     "static/css/2.20aa2d7b.chunk.css",
     "static/js/2.6941b0fb.chunk.js",
-    "static/css/main.229dc126.chunk.css",
-    "static/js/main.f5f2a083.chunk.js"
+    "static/css/main.fe35c215.chunk.css",
+    "static/js/main.b857f8aa.chunk.js"
   ]
 }
